@@ -1,0 +1,11 @@
+C:\Users\Theo\source\repos\EfStudiiDeCaz\EfStudiiDeCaz\bin\Debug\EfStudiiDeCaz.exe.config
+C:\Users\Theo\source\repos\EfStudiiDeCaz\EfStudiiDeCaz\bin\Debug\EfStudiiDeCaz.exe
+C:\Users\Theo\source\repos\EfStudiiDeCaz\EfStudiiDeCaz\bin\Debug\EfStudiiDeCaz.pdb
+C:\Users\Theo\source\repos\EfStudiiDeCaz\EfStudiiDeCaz\bin\Debug\EntityFramework.dll
+C:\Users\Theo\source\repos\EfStudiiDeCaz\EfStudiiDeCaz\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Theo\source\repos\EfStudiiDeCaz\EfStudiiDeCaz\bin\Debug\EntityFramework.xml
+C:\Users\Theo\source\repos\EfStudiiDeCaz\EfStudiiDeCaz\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Theo\source\repos\EfStudiiDeCaz\EfStudiiDeCaz\obj\Debug\EfStudiiDeCaz.csprojAssemblyReference.cache
+C:\Users\Theo\source\repos\EfStudiiDeCaz\EfStudiiDeCaz\obj\Debug\EfStudiiDeCaz.csproj.CopyComplete
+C:\Users\Theo\source\repos\EfStudiiDeCaz\EfStudiiDeCaz\obj\Debug\EfStudiiDeCaz.exe
+C:\Users\Theo\source\repos\EfStudiiDeCaz\EfStudiiDeCaz\obj\Debug\EfStudiiDeCaz.pdb
